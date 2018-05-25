@@ -10,5 +10,7 @@ public class Main {
 
         for (int j=0; j<N;j++)
             System.out.println(asdf[j]);
+
+        System.out.println("yeeee");
     }
 }
